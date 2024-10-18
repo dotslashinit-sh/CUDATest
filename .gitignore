@@ -1,0 +1,9 @@
+# Visual Studio files
+.vs/*
+*.user
+x64/*
+Debug/*
+Release/*
+CudaTest/x64/*
+CudaTest/Debug/*
+CudaTest/Release/*
